@@ -1,0 +1,90 @@
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器和IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件和备份文件
+*.tmp
+*.temp
+*.bak
+*.backup
+*_backup
+*_副本*
+*_copy*
+
+# 日志文件
+*.log
+logs/
+
+# 缓存文件
+.cache/
+*.cache
+
+# 构建输出
+build/
+dist/
+out/
+
+# 依赖文件
+node_modules/
+*.lock
+yarn.lock
+package-lock.json
+
+# 环境配置文件
+.env
+.env.local
+.env.*.local
+
+# 个人笔记和草稿
+prompt notes.md
+prompt_notes.md
+todolist.md
+quot.md
+quotes.json
+style example.md
+语言风格问题识别清单.md
+
+# 副本文件
+*副本.md
+*副本*
+
+# Trae IDE 配置
+.trae/
+
+# 文档草稿和工作文件
+*_draft*
+*_work*
+*_temp*
+
+# 压缩文件
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 媒体文件（如果不需要版本控制）
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.mp4
+# *.mov
+
+# 发布相关
+publish/
+release/
+*.pdf
+*.epub
+*.mobi
