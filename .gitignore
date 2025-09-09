@@ -60,6 +60,7 @@ style example.md
 # 副本文件
 *副本.md
 *副本*
+*_backup.md
 
 # Trae IDE 配置
 .trae/
