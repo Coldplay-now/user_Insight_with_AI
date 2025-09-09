@@ -1,0 +1,669 @@
+{
+  "需求管理专业金句": {
+    "需求识别": [
+      {
+        "quote": "如果我问用户想要什么，他们会说更快的马",
+        "source": "《福特传》",
+        "author": "亨利·福特"
+      },
+      {
+        "quote": "不要解决表面问题，要解决背后的动机",
+        "source": "《用户体验要素》",
+        "author": "Jesse James Garrett"
+      },
+      {
+        "quote": "未被满足的需求是创新的土壤",
+        "source": "《创新者的解答》",
+        "author": "Clayton Christensen"
+      },
+      {
+        "quote": "用户要的不是钻头，而是墙上的洞",
+        "source": "《创新者的窘境》",
+        "author": "Clayton Christensen"
+      },
+      {
+        "quote": "不要问用户想要什么，观察他们如何解决现有问题",
+        "source": "《幕后产品》",
+        "author": "王诗沐"
+      },
+      {
+        "quote": "真正的需求往往藏在用户抱怨的背后",
+        "source": "《腾讯产品法》",
+        "author": "李立"
+      }
+    ],
+    "需求分析": [
+      {
+        "quote": "一个需求如果不能用简单的话解释，就是没想清楚",
+        "source": "《启示录》",
+        "author": "Marty Cagan"
+      },
+      {
+        "quote": "区分want（想要）和need（需要）是产品经理的第一课",
+        "source": "《幕后产品》",
+        "author": "王诗沐"
+      },
+      {
+        "quote": "B端需求看流程效率，C端需求看情感体验",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      },
+      {
+        "quote": "一个明确的需求描述应该包含：角色、目标、情境三要素",
+        "source": "《编写有效用例》",
+        "author": "Alistair Cockburn"
+      },
+      {
+        "quote": "区分需求的真伪：用户是否愿意用时间或金钱交换",
+        "source": "《俞军产品方法论》",
+        "author": "俞军"
+      },
+      {
+        "quote": "B端需求分析要看业务流程，C端需求分析要看行为动机",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      }
+    ],
+    "需求建模": [
+      {
+        "quote": "所有模型都是错的，但有些是有用的",
+        "source": "统计学家名言",
+        "author": "George Box"
+      },
+      {
+        "quote": "用例图是用户与系统的对话剧本",
+        "source": "《UML精粹》",
+        "author": "Martin Fowler"
+      },
+      {
+        "quote": "好的需求模型应该像城市地图，既有全局又有细节",
+        "source": "《用户故事与敏捷方法》",
+        "author": "Mike Cohn"
+      },
+      {
+        "quote": "用例图不是功能清单，是用户与系统的对话剧本",
+        "source": "《UML精粹》",
+        "author": "Martin Fowler"
+      },
+      {
+        "quote": "好的需求模型应该像地图，既能看清全貌又能定位细节",
+        "source": "《用户故事与敏捷方法》",
+        "author": "Mike Cohn"
+      },
+      {
+        "quote": "用用户旅程地图建模需求时，要特别关注痛点和愉悦点",
+        "source": "《用户体验要素》",
+        "author": "Jesse James Garrett"
+      }
+    ],
+    "需求验证": [
+      {
+        "quote": "用户说的和做的往往不一致",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      },
+      {
+        "quote": "原型测试不是问'喜欢吗'，而是看'会用吗'",
+        "source": "《The Lean Product Playbook》",
+        "author": "Dan Olsen"
+      },
+      {
+        "quote": "数据告诉你行为，访谈告诉你原因",
+        "source": "《腾讯产品法》",
+        "author": "李立"
+      },
+      {
+        "quote": "需求验证不是问用户'这个功能你要不要'，而是看用户是否愿意付费使用",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      },
+      {
+        "quote": "原型测试的关键指标不是满意度，而是使用频率",
+        "source": "《The Lean Product Playbook》",
+        "author": "Dan Olsen"
+      },
+      {
+        "quote": "当用户说'挺好的'却不愿使用时，说明需求验证失败",
+        "source": "《启示录》",
+        "author": "Marty Cagan"
+      }
+    ],
+    "综合原则": [
+      {
+        "quote": "处理需求的黄金准则：先验证重要性，再验证可行性",
+        "source": "《INSPIRED》",
+        "author": "Marty Cagan"
+      },
+      {
+        "quote": "拒绝需求比接受需求更需要勇气和智慧",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      },
+      {
+        "quote": "需求变更的成本随时间指数级增长，但早期拒绝变更代价更高",
+        "source": "《敏捷软件开发》",
+        "author": "Robert C. Martin"
+      }
+    ],
+    "工具方法": [
+      {
+        "quote": "用户故事的三要素：作为[角色]，我想要[目标]，以便[价值]",
+        "source": "《用户故事与敏捷方法》",
+        "author": "Mike Cohn"
+      },
+      {
+        "quote": "Kano模型告诉我们：基本需求没满足会愤怒，兴奋需求满足了会惊喜",
+        "source": "《产品设计与开发》",
+        "author": "Ulrich & Eppinger"
+      },
+      {
+        "quote": "用5Why分析法追问需求本质，至少要问到第三次'为什么'",
+        "source": "《丰田生产方式》",
+        "author": "大野耐一"
+      }
+    ]
+  },
+  "跨领域名人洞见": {
+    "文学": [
+      {
+        "quote": "最大的需求是被理解的需求",
+        "author": "列夫·托尔斯泰",
+        "background": "《安娜·卡列尼娜》作者"
+      },
+      {
+        "quote": "识别需求就是发现人性",
+        "author": "陀思妥耶夫斯基",
+        "background": "俄国文学巨匠"
+      }
+    ],
+    "哲学": [
+      {
+        "quote": "需求产生于缺失",
+        "author": "亚里士多德",
+        "background": "古希腊哲学家"
+      },
+      {
+        "quote": "人因需求而联结，因满足而分离",
+        "author": "让-保罗·萨特",
+        "background": "存在主义哲学家"
+      }
+    ],
+    "科学": [
+      {
+        "quote": "重要的科学发现常源于解决实际需求",
+        "author": "居里夫人",
+        "background": "诺贝尔物理学奖得主"
+      },
+      {
+        "quote": "需求是进化最好的老师",
+        "author": "达尔文",
+        "background": "《物种起源》作者"
+      }
+    ],
+    "医学": [
+      {
+        "quote": "治疗疾病首先要理解病人的真实需求",
+        "author": "希波克拉底",
+        "background": "医学之父"
+      },
+      {
+        "quote": "有时治愈，常常帮助，总是安慰",
+        "author": "特鲁多医生",
+        "background": "著名医学格言"
+      }
+    ],
+    "艺术": [
+      {
+        "quote": "艺术满足的是灵魂的需求",
+        "author": "毕加索",
+        "background": "现代艺术大师"
+      },
+      {
+        "quote": "设计不是创造美，而是解决需求",
+        "author": "原研哉",
+        "background": "日本设计大师"
+      }
+    ],
+    "科技领袖": [
+      {
+        "quote": "消费者不知道自己要什么，直到你展示给他们",
+        "author": "乔布斯",
+        "background": "苹果创始人"
+      },
+      {
+        "quote": "如果你需要鼓舞人心的产品，就该从解决根本需求开始",
+        "author": "马斯克",
+        "background": "Tesla/SpaceX CEO"
+      },
+      {
+        "quote": "未来属于能预见需求的人",
+        "author": "比尔·盖茨",
+        "background": "微软创始人"
+      }
+    ],
+    "商业": [
+      {
+        "quote": "发现未被满足的需求就是发现商机",
+        "author": "彼得·德鲁克",
+        "background": "现代管理学之父"
+      },
+      {
+        "quote": "商业模式本质是需求的变现路径",
+        "author": "稻盛和夫",
+        "background": "经营之圣"
+      }
+    ]
+  },
+  "东西方智慧对比": {
+    "东方智慧": [
+      {
+        "quote": "知彼知己，百战不殆",
+        "context": "需求分析",
+        "source": "《孙子兵法》"
+      },
+      {
+        "quote": "欲取之，先予之",
+        "context": "需求验证",
+        "source": "老子《道德经》"
+      }
+    ],
+    "西方智慧": [
+      {
+        "quote": "Form follows function",
+        "context": "需求决定形式",
+        "source": "路易斯·沙利文（现代建筑之父）"
+      },
+      {
+        "quote": "Keep it simple, stupid",
+        "context": "需求简化原则",
+        "source": "洛克希德公司设计准则"
+      }
+    ]
+  },
+  "产品管理智慧": {
+    "产品哲学": [
+      {
+        "quote": "产品是企业和用户对话的媒介，而非简单的功能集合",
+        "source": "《幕后产品》",
+        "author": "王诗沐"
+      },
+      {
+        "quote": "做产品要像园丁，既要规划整体景观，也要关注每株植物的生长",
+        "source": "《人人都是产品经理2.0》",
+        "author": "苏杰"
+      },
+      {
+        "quote": "产品经理是用户需求的翻译官，商业价值的守门人",
+        "source": "《俞军产品方法论》",
+        "author": "俞军"
+      }
+    ],
+    "数据驱动": [
+      {
+        "quote": "数据告诉你发生了什么，但不会告诉你为什么发生",
+        "source": "《The Lean Product Playbook》",
+        "author": "Dan Olsen"
+      },
+      {
+        "quote": "不要用数据证明自己正确，要用数据发现自己错误",
+        "source": "《腾讯产品法》",
+        "author": "李立"
+      },
+      {
+        "quote": "关键指标不是越多越好，而是越少越有指导性",
+        "source": "《INSPIRED》",
+        "author": "Marty Cagan"
+      }
+    ],
+    "决策智慧": [
+      {
+        "quote": "犹豫不决比做出错误决定代价更大",
+        "source": "《The Hard Thing About Hard Things》",
+        "author": "Ben Horowitz"
+      },
+      {
+        "quote": "当所有选择都很糟糕时，最不坏的选择就是最好的选择",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      },
+      {
+        "quote": "产品决策不是追求完美，而是在有限信息下做出足够好的选择",
+        "source": "《Strategize》",
+        "author": "Roman Pichler"
+      }
+    ],
+    "创新突破": [
+      {
+        "quote": "真正的创新往往诞生于现有要素的重新组合",
+        "source": "《产品设计与开发》",
+        "author": "Ulrich & Eppinger"
+      },
+      {
+        "quote": "用户要的不是更快的马车，而是更快的移动方式",
+        "source": "《Hooked》",
+        "author": "Nir Eyal"
+      },
+      {
+        "quote": "破坏性创新往往从低端市场开始",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      }
+    ],
+    "职场认知": [
+      {
+        "quote": "产品经理的核心能力不是画原型，而是定义问题",
+        "source": "《启示录》",
+        "author": "Marty Cagan"
+      },
+      {
+        "quote": "职业发展的分水岭在于能否从执行层跃升至思维层",
+        "source": "《成为技术领导者》",
+        "author": "Gerald M. Weinberg"
+      },
+      {
+        "quote": "学习速度决定职业高度",
+        "source": "《人人都是产品经理2.0》",
+        "author": "苏杰"
+      }
+    ],
+    "用户洞察": [
+      {
+        "quote": "用户说的和做的不一致时，永远相信行为数据",
+        "source": "《用户体验要素》",
+        "author": "Jesse James Garrett"
+      },
+      {
+        "quote": "痛点不是用户的抱怨，而是用户愿意付费解决的问题",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      },
+      {
+        "quote": "观察用户时，重点不是他们如何使用产品，而是他们如何完成生活任务",
+        "source": "《编写有效用例》",
+        "author": "Alistair Cockburn"
+      }
+    ],
+    "组织进化": [
+      {
+        "quote": "健康组织的标志是：坏消息传递速度比好消息快",
+        "source": "《Trillion Dollar Coach》",
+        "author": "Eric Schmidt等"
+      },
+      {
+        "quote": "管理不是控制复杂度，而是创造清晰度",
+        "source": "《人件》",
+        "author": "Tom DeMarco"
+      },
+      {
+        "quote": "优秀团队的特征：心理安全感+明确责任",
+        "source": "《凤凰项目》",
+        "author": "Gene Kim等"
+      }
+    ],
+    "技术认知": [
+      {
+        "quote": "技术不是产品的限制，而是产品的实现方式",
+        "source": "《给产品经理讲技术》",
+        "author": "不详"
+      },
+      {
+        "quote": "技术债就像高利贷，拖得越久偿还成本越高",
+        "source": "《代码整洁之道》",
+        "author": "Robert C. Martin"
+      },
+      {
+        "quote": "架构设计要像城市规划，既要满足当下，也要预留发展空间",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      }
+    ],
+    "商业本质": [
+      {
+        "quote": "商业模式不是盈利方式，而是价值创造逻辑",
+        "source": "《产品路线图的艺术》",
+        "author": "李涛"
+      },
+      {
+        "quote": "可持续的商业价值=用户价值×变现效率",
+        "source": "《俞军产品方法论》",
+        "author": "俞军"
+      },
+      {
+        "quote": "B端产品的本质是帮客户赚钱或省钱",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      }
+    ]
+  },
+  "产品思维与实践": {
+    "产品思维": [
+      {
+        "quote": "产品经理90%的时间在沟通，但100%的价值在决策",
+        "source": "《人人都是产品经理2.0》",
+        "author": "苏杰"
+      },
+      {
+        "quote": "不要问用户想要什么，要观察用户实际怎么做",
+        "source": "《幕后产品》",
+        "author": "王诗沐"
+      },
+      {
+        "quote": "好产品是迭代出来的，但伟大产品是规划出来的",
+        "source": "《启示录》",
+        "author": "Marty Cagan"
+      }
+    ],
+    "技术理解": [
+      {
+        "quote": "不懂技术的产品经理就像不会看乐谱的指挥家",
+        "source": "《给产品经理讲技术》",
+        "author": "不详"
+      },
+      {
+        "quote": "技术债务就像信用卡消费，迟早要连本带利偿还",
+        "source": "《代码整洁之道》",
+        "author": "Robert C. Martin"
+      }
+    ],
+    "风险管理": [
+      {
+        "quote": "最大的风险不是做错决定，而是不做决定",
+        "source": "《与熊共舞》",
+        "author": "Tom DeMarco"
+      },
+      {
+        "quote": "项目延期是常态，关键是要有预警机制",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      }
+    ],
+    "创新方法": [
+      {
+        "quote": "创新不是灵光一现，而是系统性的试错过程",
+        "source": "《产品设计与开发》",
+        "author": "Ulrich & Eppinger"
+      },
+      {
+        "quote": "最好的创新往往来自约束条件",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      }
+    ],
+    "职场成长": [
+      {
+        "quote": "产品经理的终极竞争力不是技能，而是思维模式",
+        "source": "《俞军产品方法论》",
+        "author": "俞军"
+      },
+      {
+        "quote": "职业发展不是爬梯子，而是冲浪——要找到上升的浪潮",
+        "source": "《成为技术领导者》",
+        "author": "Gerald M. Weinberg"
+      }
+    ],
+    "系统思维": [
+      {
+        "quote": "解决问题要从更高维度看系统，而非纠结于症状",
+        "source": "《Think in Systems》",
+        "author": "Donella Meadows"
+      },
+      {
+        "quote": "优化局部可能损害整体，要警惕局部最优陷阱",
+        "source": "《Think in Systems》",
+        "author": "Donella Meadows"
+      }
+    ],
+    "价值交付": [
+      {
+        "quote": "先验证价值假设，再解决增长问题",
+        "source": "《Escaping the Build Trap》",
+        "author": "Melissa Perri"
+      },
+      {
+        "quote": "用户愿意付费的功能才是真需求",
+        "source": "《腾讯产品法》",
+        "author": "李立"
+      }
+    ],
+    "组织协同": [
+      {
+        "quote": "跨部门协作的关键是建立共同语言",
+        "source": "《凤凰项目》",
+        "author": "Gene Kim等"
+      },
+      {
+        "quote": "DevOps不是工具链，是工作方式的革命",
+        "source": "《凤凰项目》",
+        "author": "Gene Kim等"
+      }
+    ]
+  },
+  "软件产品管理书籍金句": {
+    "产品战略": [
+      {
+        "quote": "路线图不是承诺，而是假设和探索的框架",
+        "source": "《Product Roadmaps Relaunched》",
+        "author": "C. Todd Lombardo等"
+      },
+      {
+        "quote": "伟大的产品不是靠堆积功能，而是靠解决真正重要的问题",
+        "source": "《INSPIRED》",
+        "author": "Marty Cagan"
+      },
+      {
+        "quote": "战略不是目标，而是实现目标的连贯性行动计划",
+        "source": "《Good Strategy Bad Strategy》",
+        "author": "Richard Rumelt"
+      }
+    ],
+    "用户体验": [
+      {
+        "quote": "用户不关心你的解决方案，只关心自己的问题",
+        "source": "《用户体验要素》",
+        "author": "Jesse James Garrett"
+      },
+      {
+        "quote": "设计不是外观怎样，而是如何工作",
+        "source": "《设计心理学》",
+        "author": "Don Norman"
+      },
+      {
+        "quote": "习惯=触发+行动+多变奖励+投入",
+        "source": "《Hooked》",
+        "author": "Nir Eyal"
+      }
+    ],
+    "敏捷开发": [
+      {
+        "quote": "计划是必要的，但盲目遵循计划是愚蠢的",
+        "source": "《敏捷估计与规划》",
+        "author": "Mike Cohn"
+      },
+      {
+        "quote": "在软件开发中，唯一不变的就是变化本身",
+        "source": "《用户故事与敏捷方法》",
+        "author": "Mike Cohn"
+      },
+      {
+        "quote": "不要追求完美，追求可用的最小版本",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      }
+    ],
+    "团队管理": [
+      {
+        "quote": "增加人手到延迟的项目，只会让项目更延迟",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      },
+      {
+        "quote": "管理的目标不是控制人，而是创造条件让人发挥潜能",
+        "source": "《人件》",
+        "author": "Tom DeMarco"
+      },
+      {
+        "quote": "1个优秀程序员的价值是普通程序员的10倍",
+        "source": "《人月神话》",
+        "author": "Frederick Brooks"
+      }
+    ],
+    "领导力": [
+      {
+        "quote": "CEO最重要的职责是定义现实，给人希望",
+        "source": "《The Hard Thing About Hard Things》",
+        "author": "Ben Horowitz"
+      },
+      {
+        "quote": "真正的领导者不是下命令，而是清除障碍",
+        "source": "《Trillion Dollar Coach》",
+        "author": "Eric Schmidt等"
+      },
+      {
+        "quote": "技术领导力的本质是帮助他人成功",
+        "source": "《成为技术领导者》",
+        "author": "Gerald M. Weinberg"
+      }
+    ],
+    "B端产品": [
+      {
+        "quote": "B端产品的核心不是功能，而是业务流程的优化",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      },
+      {
+        "quote": "企业客户要的不是炫酷界面，而是能赚钱或省钱的工具",
+        "source": "《决胜B端》",
+        "author": "杨堃"
+      }
+    ],
+    "精益思维": [
+      {
+        "quote": "如果数据与直觉冲突，相信数据；如果数据与常识冲突，重新检查数据",
+        "source": "《The Lean Product Playbook》",
+        "author": "Dan Olsen"
+      },
+      {
+        "quote": "浪费的最大形式是开发没人要的功能",
+        "source": "《精益创业》",
+        "author": "Eric Ries"
+      }
+    ],
+    "国内实践": [
+      {
+        "quote": "产品经理是用理性的方法处理感性需求的职业",
+        "source": "《俞军产品方法论》",
+        "author": "俞军"
+      },
+      {
+        "quote": "做产品要像种树，不能只关注地面上的枝叶（功能），更要培育地下的根系（系统）",
+        "source": "《幕后产品》",
+        "author": "王诗沐"
+      },
+      {
+        "quote": "腾讯产品的三大法则：用户价值、技术驱动、生态协同",
+        "source": "《腾讯产品法》",
+        "author": "李立"
+      }
+    ]
+  }
+}
