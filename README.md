@@ -4,6 +4,17 @@
   <img src="assets/insight.jpg" alt="AI IDE产品需求分析指南封面" width="600">
 </div>
 
+<div align="center">
+
+![Version](https://img.shields.io/badge/version-v1.2-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Language](https://img.shields.io/badge/language-中文-red.svg)
+![AI Powered](https://img.shields.io/badge/AI%20Powered-Trae%20%2B%20Claude-purple.svg)
+![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025--01--09-orange.svg)
+
+</div>
+
 > 一本专为产品经理、业务分析师和技术团队打造的AI IDE实战指南
 
 ## 💭 你是否曾经遇到过这些问题？
