@@ -1,10 +1,6 @@
 # 如何利用AI IDE做产品需求分析
 
 <div align="center">
-  <img src="assets/insight.jpg" alt="AI IDE产品需求分析指南封面" width="600">
-</div>
-
-<div align="center">
 
 ![Version](https://img.shields.io/badge/version-v1.2-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -29,6 +25,10 @@
 如果你对以上任何一个问题的回答是"是"，那么这本指南正是为你而写。在AI技术快速发展的今天，我们有了更强大的工具来解决这些传统难题。
 
 ## 📖 项目简介
+
+<div align="center">
+  <img src="https://github.com/Coldplay-now/user_Insight_with_AI/blob/main/assets/insight.jpg" alt="AI IDE产品需求分析实战场景" width="500">
+</div>
 
 本项目是一本全面的指南，旨在帮助产品团队掌握如何利用AI IDE工具进行高效的产品需求分析。通过系统性的方法论、实用的案例和可直接使用的AI提示词模板，让您快速提升需求分析的效率和质量。
 
